@@ -4,7 +4,7 @@
 
 This program is a game called "Guess Faces ".
 
-This program allows the computer to recognize the number of faces within a photo. I was introduced to the CV2 module and wanted to get some practice by creating such a program like so. Enjoy!
+This program allows the computer to recognize the number of faces within a photo. The photo that is included is of the United States NBA Team (Old School). I was introduced to the CV2 module and wanted to get some practice by creating such a program like so. Enjoy!
 
 ## License & copyright
 
